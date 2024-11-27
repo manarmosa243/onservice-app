@@ -1,17 +1,9 @@
 # onservice
 
-A new Flutter project.
+OnService is a mobile application designed to simplify the process of booking reliable home services. It connects users with verified service providers across a wide range of categories, such as cleaning, carpentry, and electrical work. The app offers a user-friendly interface, flexible scheduling, and strong customer service follow-up.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# onservice-app" 
+Key Features:
+Easy service search and booking.
+Verified professionals for safety and reliability.
+Flexible scheduling tailored to user needs.
+Plans for secure payments and user reviews in future updates.
